@@ -1,0 +1,174 @@
+{
+  "prove": [
+    { "id": "01",
+      "name": "Ecologia e ambiente",
+      "esercizi": [
+        {
+          "id": "02",
+          "sezione": "Comprensione della lettura", 
+          "posizione": "2",
+          "consegna": "Leggi il testo, poi leggi le affermazioni seguenti. Non tutte sono presenti nel testo. Indica se l'affermazione è presente (SÌ) o se NON è presente (NO).",
+          "article": "L’attività svolta da ciascuno di noi nella raccolta differenziata è molto importante: separando i rifiuti e dividendoli in maniera corretta, recuperiamo materiali utili alla produzione di nuovi oggetti.", 
+          "frasi": [
+            {
+              "id": "01",
+              "name": "answer01",
+              "text": "Le risorse sono limitate e finiranno prima del tempo se le usiamo in modo sbagliato."
+            },
+            {
+              "id": "02",
+              "name": "answer02",
+              "text": "Se non si fa la raccolta differenziata si prende una multa."
+            },
+            {
+              "id": "03",
+              "name": "answer03",
+              "text": "Separando correttamente i rifiuti, recuperiamo materiali per creare nuovi oggetti."
+            },
+            {
+              "id": "04",
+              "name": "answer04",
+              "text": "I contenitori della raccolta differenziata sono uguali per tutti."
+            },
+            {
+              "id": "05",
+              "name": "answer05",
+              "text": "L’olio da cucina va raccolto in un contenitore da portare in discarica."
+            },
+            {
+              "id": "06",
+              "name": "answer06",
+              "text": "Le pile e le batterie vanno buttate presso i negozi che le vendono."
+            },
+            {
+              "id": "07",
+              "name": "answer07",
+              "text": "Le medicine non si possono buttare insieme agli altri rifiuti."
+            },
+            {
+              "id": "08",
+              "name": "answer08",
+              "text": "Le pile e le batterie possono essere smaltite solo se completamente esaurite."
+            },
+            {
+              "id": "09",
+              "name": "answer09",
+              "text": "Per rifiuti ingombranti si intende tutto ciò che non entra nel cassonetto."
+            },
+            {
+              "id": "10",
+              "name": "answer10",
+              "text": "Il recipiente per smaltire l’olio da cucina viene fornito dal Comune."
+            },
+            {
+              "id": "11",
+              "name": "answer11",
+              "text": "Per il ritiro dei rifiuti ingombranti devo prendere un appuntamento."
+            },
+            {
+              "id": "12",
+              "name": "answer12",
+              "text": "La TARI è una tassa annuale per la raccolta dei rifiuti."
+            }
+          ],
+          "soluzioni": {
+            "answer01": "true",
+            "answer02": "true",
+            "answer03": "true",
+            "answer04": "false",
+            "answer05": "true",
+            "answer06": "true",
+            "answer07": "true",
+            "answer08": "false",
+            "answer09": "true",
+            "answer10": "false",
+            "answer11": "true",
+            "answer12": "true"
+          }
+        }
+      ]
+    },
+    { "id": "02",
+      "name": "Scuola",
+      "esercizi": [
+        {
+          "id": "02",
+          "sezione": "Comprensione della lettura", 
+          "posizione": "2",
+          "consegna": "Leggi il testo, poi leggi le affermazioni seguenti. Non tutte sono presenti nel testo. Indica se l'affermazione è presente (SÌ) o se NON è presente (NO).",
+          "article": "Per bambini e bambine tra i 3 e i 6 anni c'è la scuola dell’infanzia, chiamata anche scuola materna. Prima dei 3 anni, i bambini e le bambine possono andare all’asilo nido. Entrambe queste scuole non sono obbligatorie.",
+          "frasi": [
+            {
+              "id": "01",
+              "name": "answer01",
+              "text": "La scuola in Italia è gratuita."
+            },
+            {
+              "id": "02",
+              "name": "answer02",
+              "text": "Alla fine della scuola primaria si affronta un esame."
+            },
+            {
+              "id": "03",
+              "name": "answer03",
+              "text": "Prima dei 6 anni la scuola non è obbligatoria."
+            },
+            {
+              "id": "04",
+              "name": "answer04",
+              "text": "La scuola secondaria di primo grado dura 3 anni."
+            },
+            {
+              "id": "05",
+              "name": "answer05",
+              "text": "Alla fine della scuola media gli studenti affrontano l’esame di maturità."
+            },
+            {
+              "id": "06",
+              "name": "answer06",
+              "text": "In Italia esiste solo una tipologia di scuola superiore."
+            },
+            {
+              "id": "07",
+              "name": "answer07",
+              "text": "È responsabilità dei genitori degli studenti e delle studentesse garantire che i figli e le figlie portino a termine la scuola dell’obbligo."
+            },
+            {
+              "id": "08",
+              "name": "answer08",
+              "text": "Dopo la scuola secondaria di secondo grado ci si può iscrivere all’Università."
+            },
+            {
+              "id": "09",
+              "name": "answer09",
+              "text": "Per entrare in tutte le Università bisogna fare un test di accesso."
+            },
+            {
+              "id": "10",
+              "name": "answer10",
+              "text": "Tutti i ragazzi e le ragazze in Italia devono andare a scuola almeno per 10 anni."
+            },
+            {
+              "id": "11",
+              "name": "answer11",
+              "text": "L’esame di maturità è molto difficile."
+            },
+            {
+              "id": "12",
+              "name": "answer12",
+              "text": "La scuola elementare e la scuola primaria sono la stessa cosa."
+            }
+          ]
+        }
+      ]
+    },
+    { "id": "03", "name": "Lavoro"},
+    { "id": "04", "name": "Salute"},
+    { "id": "05", "name": "Famiglie e tradizioni"},
+    { "id": "06", "name": "Casa"},
+    { "id": "07", "name": "Viaggi e tempo libero"},
+    { "id": "08", "name": "Città e servizi"},
+    { "id": "09", "name": "L'Italia e le sue leggi"},
+    { "id": "10", "name": "Tasse e contributi"}
+  ]
+}
